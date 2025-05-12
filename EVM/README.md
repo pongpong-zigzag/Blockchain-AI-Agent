@@ -149,7 +149,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - OpenAI for providing the GPT-4o-mini model.
 - Viem for blockchain interaction utilities.
-
-## Contact
-
-https://t.me/akratos_god
